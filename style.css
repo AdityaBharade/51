@@ -1,0 +1,50 @@
+h1 {
+    color: white;
+}
+
+.header{
+
+background-color:darkred;
+display : flex;
+justify-content: space-evenly;
+    
+}
+.menu{
+    background-color: darkred;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+
+background-color:crimson;
+display : flex ;
+flex-wrap : wrap;
+justify-content :space-evenly;
+
+}
+.grid2{
+
+    background-color:brown;
+    display : flex ;
+    flex-wrap : wrap;
+    justify-content :space-evenly;
+    
+    }
+.block{
+
+background-color:indianred;
+text-align: center;
+
+}
+
+.footer{
+
+background-color:indianred;
+display : flex ;
+justify-content :flex-end;
+
+}
+a:visited{
+
+    color:black;
+}
